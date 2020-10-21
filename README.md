@@ -37,8 +37,8 @@
 *NOTE: Top languages does not indicate skill level, it's a GitHub metric of which languages I have the most code in on GitHub*
 
 <a href="https://profile-summary-for-github.com/user/ajmeese7">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=marcoaminotto&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Marco's GitHub stats"/>
-  <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaminotto&hide_langs_below=5&layout=compact" alt="Marco's language stats"/>
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=marcoaminotto&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Marco's GitHub stats"/>
+  <img  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaminotto&hide_langs_below=5&layout=compact" alt="Marco's language stats"/>
 </a>
 
 
