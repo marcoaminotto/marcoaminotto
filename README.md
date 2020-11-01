@@ -3,7 +3,7 @@
 ### I am a Web Developer, React Enthusiast, Board Game Lover and Ethernal Polish Learner.
 
 - 🔭 I’m currently looking for a Frontend oportunity
-- 🌱 I’m currently learning Redux and Polish :poland:
+- 🌱 I’m currently learning Webpack, Next.js and Polish :poland:
 - 📫 How to reach me: devminotto@gmail.com
 
 
