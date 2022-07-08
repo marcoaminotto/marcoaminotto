@@ -2,7 +2,7 @@
 
 ### I am a Web Developer, React Enthusiast, Board Game Lover and Ethernal Polish Learner.
 
-- 🌱 I’m currently learning Webpack, Next.js and Polish :poland:
+- 🌱 I’m currently learning Swift and Polish :poland:
 - 📫 How to reach me: devminotto@gmail.com
 
 
